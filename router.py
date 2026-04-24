@@ -219,6 +219,5 @@ def main():
     while True:
         time.sleep(5)
         refresh_local_config()
-
 if __name__ == "__main__":
-    main()
+    main()
